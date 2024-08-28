@@ -8,6 +8,8 @@
 
 🌱 To also develop my learning, I've completed multiple courses with Code First Girls, Codecademy and freeCodeCamp - learning Python, JavaScript, HTML & more.
 
+
+
 ### 👩‍💻 Tech stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,6 +27,7 @@
 
 
 ### 🤙 Contact me on Linkedin
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/jessie-hall-624626189/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,6 +36,7 @@
 
 
 ### 🏫 View my learning
+
 <div id="badges">
   <a href="https://www.codecademy.com/profiles/jessiehall101">
     <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="Codecademy Badge"/>
@@ -42,7 +46,7 @@
   </a>
 </div>
 
-#### Resources :
-  
-- Readme Stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+
+#### Resources
+Readme Stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 
