@@ -47,6 +47,6 @@
 </div>
 
 --- 
-#### Resources
-Readme Stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+#### Resources:
+Top language stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 
