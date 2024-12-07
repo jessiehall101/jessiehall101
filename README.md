@@ -2,7 +2,7 @@
 
 👋 **Welcome to my personal GitHub repository!**
 
-👀 I currently work in CRM using HTML and CSS to build emails, which has developed my passion for tech and made me want to switch to a career in the field. To pursue this, I'm currently undertaking the Code First Girls degree in Software Engineering which focuses on building my skills in multiple areas including Python and SQL.
+👀 I currently work in CRM using HTML and CSS to build emails, which has developed my passion for tech and made me want to switch to a career in the field. To pursue this, I'm currently undertaking the Code First Girls 16 week bootcamp in Software & Data Engineering which focuses on building my skills in multiple areas including Python and SQL.
 
 💻 I have a huge interest in AI, how it's progressing, how we can use it, and how it's going to change the future and am keen to develop my knowledge in this further.
 
