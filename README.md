@@ -19,10 +19,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-###  📊 My stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessiehall101&layout=donut&theme=radical)](https://github.com/jessiehall101/github-readme-stats)
-
 
 ### 🤙 Contact me on Linkedin
 
@@ -31,20 +27,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-
-### 🏫 View my learning
-
-<div id="badges">
-  <a href="https://www.codecademy.com/profiles/jessiehall101">
-    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" alt="Codecademy Badge"/>
-  </a>
-  <a href="https://www.freecodecamp.org/fcc7ab7b19c-02a1-430e-b741-add0413a12e8">
-    <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="freecodecamp Badge"/>
-  </a>
-</div>
-
---- 
-#### Resources:
-Top language stats: [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
-
