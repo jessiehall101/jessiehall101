@@ -3,6 +3,7 @@
 👋 **Welcome to my personal GitHub repository!**
 
 👀 I currently work in Commercial Data as an Associate Software Engineer. My main technologies are Java, SpringBoot, Kafka and MongoDb
+
 💻 I have a huge interest in AI, how it's progressing, how we can use it, and how it's going to change the future and am keen to develop my knowledge in this further.
 
 🌱 To also develop my learning, I've completed multiple courses with Code First Girls, Codecademy and freeCodeCamp - learning Python, JavaScript, HTML & more.
